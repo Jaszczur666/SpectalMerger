@@ -1,1 +1,1 @@
-# SpectalMerger
+# SpectralMerger
